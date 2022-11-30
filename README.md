@@ -1,18 +1,28 @@
-## SIDL CORPORATION
-
-| <img src="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/assets/logo/app_logo.png" data-canonical-src="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/assets/logo/app_logo.png" width="150" height="150" /> | SIDL CORPORATION <br/><a href="https://apps.sidl-corporation.fr/" target="_blank">apps.sidl-corporation.fr</a><br/><br/> ![Build](https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/SIDL-CORPORATION?style=social)<br/><br/> [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9P7NX5XR93HZ) |
-|:-:|:-:|
-
-
-
+<p align="center">
+  <img width="128" align="center" src="assets/logo/app_logo.png">
+</p>
+<h1 align="center">
+  SIDL CORPORATION
+  <p align="center">
+    <a href="https://apps.sidl-corporation.fr/" style="font-size:10px; target="_blank">apps.sidl-corporation.fr</a>
+  </p>
+</h1>
+<p align="center">
+  L'application, à regrouper plusieurs informations sur l'entreprise, ainsi que le site internet, et les applications éditer par l'entreprise.
+</p>
+<p align="center">
+  <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/releases">
+    <img src="https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/SIDL-CORPORATION?label=VERSION&style=for-the-badge" alt="Releases" />
+  </a>
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/PLATFORME-Windows%2010%20%7C%20UWP-yellow.svg?style=for-the-badge" alt="Platform" />
+  </a>
+  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9P7NX5XR93HZ">
+    <img src="https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft" alt="Microsoft Store" />
+  </a>
+</p>
 
 ***
-![Build](https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/SIDL-CORPORATION?style=social)
-[![Release](https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/SIDL-CORPORATION?include_prereleases&sort=date&style=social)](https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/releases)
-[![Stars](https://img.shields.io/github/stars/SIDL-C0R0RATI0N/SIDL-CORPORATION?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/stargazers)
-[![Forks](https://img.shields.io/github/forks/SIDL-C0R0RATI0N/SIDL-CORPORATION?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/network/members)
-***
-
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Plateform | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
