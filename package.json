@@ -1,0 +1,14 @@
+{
+    "name": "SIDL CORPORATION",
+    "package":"20019SIDLCorp.SIDLCORPORATION",
+    "version": "1.0.0.0",
+    "main": "https://apps.sidl-corporation.fr/",
+    "repository": {
+        "type": "web",
+        "url": "https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/"
+    },
+    "keywords": [
+        "SIDL CORPORATION"
+    ],
+    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)"
+}
