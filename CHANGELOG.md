@@ -1,8 +1,6 @@
 # Journale des dernières mises à jour de l'application
 
-## Version [1.0.0.0]| Le NaN
-### Version initial
+## Version [0.0.1.0] (BÊTA)| Le 01/12/2022
+### Version de développement.
 
-- Version initial de l'application. _(Application non disponible pour le moment)_
-
-***
+- Cette version n'est pas disponible sur le Microsoft Store ainsi indisponible pour les utilisateurs.
