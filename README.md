@@ -78,3 +78,12 @@ NaN
 | Taille approximative | NaN |
 | Langues prises en charge | NaN |
 | Version PC | NaN |
+
+## LICENCES
+
+- <a href="https://github.com/CommunityToolkit/WindowsCommunityToolkit/blob/main/License.md" target="_blank">Microsoft Toolkit MVVM</a>
+- <a href="https://learn.microsoft.com/fr-fr/windows/apps/winui/winui2/license" target="_blank">Windows UI Library</a>
+- <a href="https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/LICENSE.md" target="_blank">Newtonsoft.Json</a>
+- <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/copyright" target="_blank">Microsoft.Services.Store.SDK</a>
+- <a href="https://raw.githubusercontent.com/Microsoft/AdaptiveCards/master/LICENSE" target="_blank">AdaptiveCards</a>
+- <a href="https://marketplace.visualstudio.com/items/TeamXavalon.XAMLStyler/license" target="_blank">XAMLStyler</a>
