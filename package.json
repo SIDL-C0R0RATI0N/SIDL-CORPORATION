@@ -1,7 +1,7 @@
 {
     "name": "SIDL CORPORATION",
     "package":"20019SIDLCorp.SIDLCORPORATION",
-    "version": "0.0.1.0",
+    "version": "0.0.1-beta.1",
     "main": "https://apps.sidl-corporation.fr/",
     "repository": {
         "type": "web",
