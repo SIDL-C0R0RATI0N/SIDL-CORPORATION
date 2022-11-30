@@ -16,7 +16,7 @@
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Plateform | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![Status](https://img.shields.io/badge/INDISPONIBLE-red) | PC | NaN | NaN | NaN | SIDL CORPORATION | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-nan-pc--le-nan">En lire plus</a> | [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9P7NX5XR93HZ) |
+| ![Status](https://img.shields.io/badge/INDISPONIBLE-red) | PC | NaN | NaN | NaN | SIDL CORPORATION | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1000-le-nan">En lire plus</a> | [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9P7NX5XR93HZ) |
 
 ## CONFIGURATION REQUISE :
 
