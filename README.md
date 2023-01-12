@@ -42,8 +42,17 @@
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
    | 🟠 | 1.1302.2023.0 | 13/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🟠 | 1.1303.2023.0 | 13/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🟠 | 1.1304.2023.0 | 13/04/2023 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1303.2023.0 | 13/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1304.2023.0 | 13/04/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1305.2023.0 | 13/05/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1306.2023.0 | 13/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1307.2023.0 | 13/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1308.2023.0 | 13/08/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1309.2023.0 | 13/09/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1310.2023.0 | 13/10/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1311.2023.0 | 13/11/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1312.2023.0 | 13/12/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 2.1501.2024.0 | 15/01/2024 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION (Version Anniversaire) |
   </p>
 </details>
 
