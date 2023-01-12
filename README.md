@@ -34,7 +34,7 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | NaN | 1.1301.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1130120230--13-janvier-2023" target="_blank">Lire ici</a> |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | NaN | 1.1301.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1130120230---13-janvier-2023" target="_blank">Lire ici</a> |
 
   <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
     <p>
