@@ -94,7 +94,7 @@
   | Date de sortie | 13/01/2023 |
   | Mise à jour | NaN |
   | Catégorie | Productivité |
-  | Taille approximative | NaN |
+  | Taille approximative | 46,4 Mo |
   | Langues prises en charge | Anglais, Français |
   | Version | 1.1301.2023.0 |
 
