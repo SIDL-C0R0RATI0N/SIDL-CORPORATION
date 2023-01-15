@@ -4,10 +4,14 @@
 <details><summary>INFORMATION SUR LA MISE À JOUR [1.2001.2023.0]</summary>
   
   ### Mise à jour cumulative.
-  - [Ajouts] Liste des établissement & informations sur l'entreprise,
-  - [Mise à jour] MENU de la page d'accueil,
-  - [Ajouts] Nouvelles sections dans le menu latérale,
-  - [Système] Passage de la version `1.1301.2023.0` vers la version `1.2001.2023.0`.
+  - **[Préparation]** Page dédier à la liste des établissements,
+  - **[Préparation]** Page des paramètres,
+  - **[Mise à jour]** Actualisation de la page d'accueil,
+  - **[Mise à jour]** Aperçu des applications éditer par SIDL CORPORATION,
+  - **[Correction]** Problèmes lié à l'application lors de l'exécution de certaines fonctions,
+  - **[Correction]** Stablitité sur les systèmes `Windows 10 (x64, x86, ARM)` et `Windows 11 (x64, x86, ARM)`,
+  - **[Système]** Rendu de l'application compatible sur `Windows 11 (x64, x86, ARM)`,
+  - **[Système]** Passage de la version `1.1301.2023.0` vers la version `1.2001.2023.0`.
   
 </details>
 
@@ -26,6 +30,6 @@
 <details><summary>INFORMATION SUR LA MISE À JOUR [0.0.1.0] (BÊTA)</summary>
   
   ### Version de développement.
-  - Cette version n'est pas disponible sur le Microsoft Store ainsi indisponible pour les utilisateurs.
+  - **[Système]** Cette version n'est pas disponible sur le Microsoft Store ainsi indisponible pour les utilisateurs.
   
 </details>
