@@ -41,18 +41,32 @@
 
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | 🟠 | 1.1302.2023.0 | 13/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🟠 | 1.2001.2023.0 | 20/01/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.1302.2023.0 | 13/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2002.2023.0 | 20/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1303.2023.0 | 13/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2003.2023.0 | 20/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1304.2023.0 | 13/04/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2004.2023.0 | 20/04/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1305.2023.0 | 13/05/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2005.2023.0 | 20/05/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1306.2023.0 | 13/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2006.2023.0 | 20/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1307.2023.0 | 13/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2007.2023.0 | 20/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1308.2023.0 | 13/08/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2008.2023.0 | 20/08/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1309.2023.0 | 13/09/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2009.2023.0 | 20/09/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1310.2023.0 | 13/10/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2010.2023.0 | 20/10/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1311.2023.0 | 13/11/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2011.2023.0 | 20/11/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1312.2023.0 | 13/12/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🔴 | 1.2012.2023.0 | 20/12/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 2.1501.2024.0 | 15/01/2024 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION (Version Anniversaire) |
+   | 🔴 | 2.2001.2024.0 | 20/01/2024 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION (Version Anniversaire) |
+   | 🔴 | 2.1502.2024.0 | 15/02/2024 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
   </p>
 </details>
 
@@ -61,7 +75,7 @@
 
   | Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
   | ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
-  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.1302.2023.0 | SIDL CORPORATION (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
+  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.2001.2023.0 | SIDL CORPORATION (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
 
   > **Warning**
   > Sachez que si vous souhaitez tester la version _**PREVIEW**_, vous devez vous inscrire à partir d'un lien dédier car la version _**PREVIEW**_ n'est pas disponible    au publique.
