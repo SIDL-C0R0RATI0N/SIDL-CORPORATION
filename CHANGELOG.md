@@ -1,6 +1,6 @@
 # Journale des dernières mises à jour de l'application
 
-## Version [1.2001.2023.0] - 20 Janvier 2023
+## Version (Annulé) [1.2001.2023.0] - 20 Janvier 2023
 <details><summary>INFORMATION SUR LA MISE À JOUR [1.2001.2023.0]</summary>
   
   ### Mise à jour cumulative.
