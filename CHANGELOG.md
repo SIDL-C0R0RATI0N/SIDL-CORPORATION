@@ -8,6 +8,8 @@
   - **[Préparation]** Page des paramètres,
   - **[Mise à jour]** Actualisation de la page d'accueil,
   - **[Mise à jour]** Aperçu des applications éditer par SIDL CORPORATION,
+  - **[Mise à jour]** Aperçu des paramètres de l'application,
+  - **[Ajouts]** Système audio de l'application,
   - **[Correction]** Problèmes lié à l'application lors de l'exécution de certaines fonctions,
   - **[Correction]** Stablitité sur les systèmes `Windows 10 (x64, x86, ARM)` et `Windows 11 (x64, x86, ARM)`,
   - **[Système]** Rendu de l'application compatible sur `Windows 11 (x64, x86, ARM)`,
