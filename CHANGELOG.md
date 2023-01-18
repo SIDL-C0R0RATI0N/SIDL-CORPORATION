@@ -1,6 +1,6 @@
 # Journale des dernières mises à jour de l'application
 
-## Version (Annulé) [1.2001.2023.0] - 20 Janvier 2023
+## Version (Retard) [1.2001.2023.0] - 20 Janvier 2023
 <details><summary>INFORMATION SUR LA MISE À JOUR [1.2001.2023.0]</summary>
   
   ### Mise à jour cumulative.
@@ -14,6 +14,8 @@
   - **[Correction]** Stablitité sur les systèmes `Windows 10 (x64, x86, ARM)` et `Windows 11 (x64, x86, ARM)`,
   - **[Système]** Rendu de l'application compatible sur `Windows 11 (x64, x86, ARM)`,
   - **[Système]** Passage de la version `1.1301.2023.0` vers la version `1.2001.2023.0`.
+  
+  > Les informations ci-dessus peuvent êtres changer suite à des problèmes. Nous allons donc annoncer sur <a href="https://twitter.com/SIDLCORPORATION" targer="_blank">Twitter</a> le changelog officiel.
   
 </details>
 
