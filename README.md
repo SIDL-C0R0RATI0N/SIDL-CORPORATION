@@ -25,6 +25,12 @@
 </p>
 
 ***
+## ACUTALITÉS SUR LES MISES à JOURS :
+### Actualités via Twitter.
+
+<blockquote class="twitter-tweet" data-lang="fr" data-theme="dark"><p lang="fr" dir="ltr">Des retards lors du lancement de la mises à jour seras donc à prévoir... <a href="https://t.co/HJU3iw154T">https://t.co/HJU3iw154T</a></p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615826951402590209?ref_src=twsrc%5Etfw">18 janvier 2023</a></blockquote>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La mise à jour qui devais arriver de notre application, et actuellement retarder pour une erreur lors du développement. Nous allons donc corriger le problème et tenter de tester si ça viens de l&#39;ajouts de l&#39;audio.</p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615825905405886465?ref_src=twsrc%5Etfw">18 Janvier 2023</a></blockquote>
 
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 
@@ -34,7 +40,7 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🔴 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | 20/01/2023 | 1.2001.2023.0 | SIDL CORPORATION (Annulé) | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1200120230---20-janvier-2023" target="_blank">Lire ici</a> |
+  | 🟠 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | 20/01/2023 | 1.2001.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1200120230---20-janvier-2023" target="_blank">Lire ici</a> |
   | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | NaN | 1.1301.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1130120230---13-janvier-2023" target="_blank">Lire ici</a> |
 
   <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
@@ -42,7 +48,7 @@
 
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | 🔴 | 1.2001.2023.0 | 20/01/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION (Annulé) |
+   | 🟠 | 1.2001.2023.0 | 20/01/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1302.2023.0 | 13/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.2002.2023.0 | 20/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1303.2023.0 | 13/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
