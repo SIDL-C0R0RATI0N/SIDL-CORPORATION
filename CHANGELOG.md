@@ -1,21 +1,20 @@
 # Journale des dernières mises à jour de l'application
 
-## Version (Retard) [1.2001.2023.0] - 20 Janvier 2023
+## Version [1.2001.2023.0] - 20 Janvier 2023
 <details><summary>INFORMATION SUR LA MISE À JOUR [1.2001.2023.0]</summary>
   
   ### Mise à jour cumulative.
-  - **[Préparation]** Page dédier à la liste des établissements,
-  - **[Préparation]** Page des paramètres,
-  - **[Mise à jour]** Actualisation de la page d'accueil,
-  - **[Mise à jour]** Aperçu des applications éditer par SIDL CORPORATION,
-  - **[Mise à jour]** Aperçu des paramètres de l'application,
+  - **[Préparation]** Page dédier à listé les établissements de SIDL CORPORATION,
+  - **[Mise à jour]** Affichage de la page d'accueil de l'application,
+  - **[Mise à jour]** Affichage de la page des paramètres de l'application,
+  - **[Mise à jour]** Apperçu de la liste des applications éditer par l'entreprise,
   - **[Ajouts]** Système audio de l'application,
+  - **[Ajouts]** Message d'alerte sur les pages `Accueil` et `Où sommes-nous ?`,
+  - **[Ajouts]** Badge de notifications sur le menu latéral gauche et zone d'application,
   - **[Correction]** Problèmes lié à l'application lors de l'exécution de certaines fonctions,
   - **[Correction]** Stablitité sur les systèmes `Windows 10 (x64, x86, ARM)` et `Windows 11 (x64, x86, ARM)`,
   - **[Système]** Rendu de l'application compatible sur `Windows 11 (x64, x86, ARM)`,
   - **[Système]** Passage de la version `1.1301.2023.0` vers la version `1.2001.2023.0`.
-  
-  > Les informations ci-dessus peuvent êtres changer suite à des problèmes. Nous allons donc annoncer sur <a href="https://twitter.com/SIDLCORPORATION" targer="_blank">Twitter</a> le changelog officiel.
   
 </details>
 
