@@ -1,13 +1,30 @@
 {
     "name": "SIDL CORPORATION",
+    "description": "The official repository of SIDL CORPORATION apps.",
     "version": "1.1301.2023",
     "main": "https://www.microsoft.com/store/apps/9P7NX5XR93HZ",
-    "repository": {
+    "repository": 
+    {
         "type": "web",
         "url": "https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/"
     },
+    "scripts": 
+    {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "SIDL-C0R0RATI0N SIDL-CORPORATION",
+        "build": "gulp build-SIDL-CORPORATION"
+    },
+    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)",
     "keywords": [
         "SIDL CORPORATION"
     ],
-    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)"
+    "license": "MIT",
+    "devDependencies": 
+    {
+        "del": "^2.2.0",
+        "SIDL-CORPORATION-packager": "^7.0.3",
+        "SIDL-CORPORATION": "^1.2.1",
+        "SIDL-CORPORATION-windows-store": "^0.4.1",
+        "gulp": "^3.9.1"
+    }
 }
