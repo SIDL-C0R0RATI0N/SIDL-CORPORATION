@@ -151,7 +151,7 @@ Vous souhaitez avoir des informations sur l'entreprise "SIDL CORPORATION", Déco
   
   ![Screenshot 2](https://sidl-corporation.fr/wp-content/uploads/2023/01/2_fr.png)
 
-## LICENCES
+## DÉPENDANCES UTILISER DANS L'APPLICATION :
 
 - <a href="https://github.com/CommunityToolkit/WindowsCommunityToolkit/blob/main/License.md" target="_blank">Microsoft Toolkit MVVM</a>
 - <a href="https://learn.microsoft.com/fr-fr/windows/apps/winui/winui2/license" target="_blank">Windows UI Library</a>
