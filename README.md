@@ -7,7 +7,7 @@
   SIDL CORPORATION
 </h1>
 <p align="center">
-  L'application, à regrouper plusieurs informations sur l'entreprise, ainsi que le site internet, et les applications éditer par l'entreprise.
+  Cette application, et l'application officiel de l'entreprise "SIDL CORPORATION".
 </p>
 <p align="center">
   <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/releases">
@@ -135,13 +135,15 @@
   <p>
 
   > (* : Windows 10 version 18362.0 ou supérieure).<br/>
-  > (² : L'application peut-être compatible sur Windows 11, mes jamais testé par le développeur). 
+  > (² : L'application et donc compatible sur `Windows 11 (x86, x64, ARM64)`). 
   </p>
   </details>
   
 ## DESCRIPTION :
 
-Vous souhaitez avoir des informations sur l'entreprise "SIDL CORPORATION", Découvrir ainsi les applications éditer par l'entreprise ou encore, accéder au site internet officiel de l'entreprise, c'est maintenant possible.
+Cette application, et l'application officiel de l'entreprise "SIDL CORPORATION". Ici, vous allez pouvoir retrouvez toutes nos informations (Liste des établissements, numéro de téléphone, adresse postal, e-mail de contact, etc...).
+
+Cette application seras maintenue à jours, en cas de nouvelles informations sur l'entreprise, ou encore d'actualités, de promotions, etc...
 
 ## CAPTURE(S) D'ÉCRAN :
 
