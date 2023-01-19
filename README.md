@@ -28,7 +28,7 @@
 ## ACUTALITÉS SUR LES MISES à JOURS :
 ### Actualités via Twitter.
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La mise à jour va donc êtres très prochainement disponible vers la version 1.2001.2023.0</p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615879082020945920?ref_src=twsrc%5Etfw">January 19, 2023</a></blockquote>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La mise à jour va donc êtres très prochainement disponible vers la version 1.2001.2023.0</p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615879082020945920?ref_src=twsrc%5Etfw">19 janvier 2023</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="fr" data-theme="dark"><p lang="fr" dir="ltr">Des retards lors du lancement de la mises à jour seras donc à prévoir... <a href="https://t.co/HJU3iw154T">https://t.co/HJU3iw154T</a></p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615826951402590209?ref_src=twsrc%5Etfw">18 janvier 2023</a></blockquote>
 
