@@ -21,3 +21,7 @@ Nous nous réservons le droit de mettre à jour ou de modifier notre Politique d
 ## Coordonnées
 
 Pour toute question ou préoccupation concernant la politique de confidentialité, veuillez nous envoyer un e-mail à contact@sidl-corporation.fr.
+
+## Autres lien d'accès vers la Politique de Confidentialité
+
+<a href="https://www.sidl-corporation.fr/privacy-policy/" target="_blank">Cliquez ici</a>
