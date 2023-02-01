@@ -1,5 +1,20 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [1.3101.2023.0] - 31 Janvier 2023
+<details><summary>INFORMATION SUR LA MISE À JOUR [1.3101.2023.0]</summary>
+  
+  ### Mise à jour cumulative.
+  - **[Préparation]** Page dédiée au référencement des établissements SIDL CORPORATION,
+  - **[Préparation]** Page dédiée aux mises à jours de l'application dans les paramètres,
+  - **[Mise à jour]** Adresse postale de l'entreprise,
+  - **[Mise à jour]** Localisation de l'entreprise,
+  - **[Ajouts]** Page `Espace Client`,
+  - **[Correction]** Bugs lié à l'execution de l'application,
+  - **[Système]** Mise à niveau de la version `1.2001.2023.0` vers la version `1.3101.2023.0`.
+</details>
+
+***
+
 ## Version [1.2001.2023.0] - 20 Janvier 2023
 <details><summary>INFORMATION SUR LA MISE À JOUR [1.2001.2023.0]</summary>
   
