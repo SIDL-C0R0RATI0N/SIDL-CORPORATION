@@ -42,7 +42,7 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | 20/01/2023 | 1.2001.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1200120230---20-janvier-2023" target="_blank">Lire ici</a> |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | 31/01/2023 | 1.3101.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1310120230---31-janvier-2023" target="_blank">Lire ici</a> |
 
   <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
     <p>
@@ -122,11 +122,11 @@
   |:-:|:-:|
   | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
   | Date de sortie | 13/01/2023 |
-  | Mise à jour | NaN |
+  | Mise à jour | 31/01/2023 |
   | Catégorie | Productivité |
   | Taille approximative | 46,4 Mo |
   | Langues prises en charge | Anglais, Français |
-  | Version | 1.1301.2023.0 |
+  | Version | 1.3101.2023.0 |
 
   </p>
   </details>
