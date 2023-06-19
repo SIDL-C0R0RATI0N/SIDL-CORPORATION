@@ -1,5 +1,18 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [1.2006.2023.0] - 31 Janvier 2023
+<details><summary>INFORMATION SUR LA MISE À JOUR [1.2006.2023.0]</summary>
+  
+  ### Mise à jour cumulative.
+  - **[Mise à jour]** Sécurité de l'application et des données inclus dans l'application,
+  - **[Mise à jour]** Version des applications,
+  - **[Correction]** Système de mise à jour,
+  - **[Correction]** Bugs lié à l'execution de l'application,
+  - **[Ajouts]** Système d'actualités.
+</details>
+
+***
+
 ## Version [1.3101.2023.0] - 31 Janvier 2023
 <details><summary>INFORMATION SUR LA MISE À JOUR [1.3101.2023.0]</summary>
   
