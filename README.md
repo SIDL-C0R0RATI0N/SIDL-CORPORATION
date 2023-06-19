@@ -28,6 +28,8 @@
 ## ACUTALITÉS SUR LES MISES à JOURS :
 ### Actualités via Twitter.
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La nouvelle mise à jour vers la version 1.2006.2023.0 seras disponible très prochainement sur le Micorsoft Store./p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a>19 juin 2023</a></blockquote>
+
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La mise à jour va donc êtres très prochainement disponible vers la version 1.2001.2023.0</p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615879082020945920?ref_src=twsrc%5Etfw">19 janvier 2023</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="fr" data-theme="dark"><p lang="fr" dir="ltr">Des retards lors du lancement de la mises à jour seras donc à prévoir... <a href="https://t.co/HJU3iw154T">https://t.co/HJU3iw154T</a></p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615826951402590209?ref_src=twsrc%5Etfw">18 janvier 2023</a></blockquote>
@@ -42,23 +44,14 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | 31/01/2023 | 1.3101.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1310120230---31-janvier-2023" target="_blank">Lire ici</a> |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 13/12/2023 | 20/06/2023 | 1.2006.2023.0 | SIDL CORPORATION | <a href="https://github.com/SIDL-C0R0RATI0N/SIDL-CORPORATION/blob/main/CHANGELOG.md#version-1310120230---31-janvier-2023" target="_blank">Lire ici</a> |
 
   <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
     <p>
 
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | 🔴 | 1.1302.2023.0 | 13/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.2002.2023.0 | 20/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.1303.2023.0 | 13/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.2003.2023.0 | 20/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.1304.2023.0 | 13/04/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.2004.2023.0 | 20/04/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.1305.2023.0 | 13/05/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.2005.2023.0 | 20/05/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.1306.2023.0 | 13/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
-   | 🔴 | 1.2006.2023.0 | 20/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
+   | 🟠 | 1.2006.2023.0 | 20/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1307.2023.0 | 13/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.2007.2023.0 | 20/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
    | 🔴 | 1.1308.2023.0 | 13/08/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SIDL CORPORATION |
@@ -82,7 +75,7 @@
 
   | Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
   | ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
-  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.2001.2023.0 | SIDL CORPORATION (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
+  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | NaN | SIDL CORPORATION (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
 
   > **Warning**
   > Sachez que si vous souhaitez tester la version _**PREVIEW**_, vous devez vous inscrire à partir d'un lien dédier car la version _**PREVIEW**_ n'est pas disponible    au publique.
@@ -102,10 +95,10 @@
   | ---------- | ------- | ---------- |
   | Plateforme | PC | PC |
   | OS | Windows 10* | Windows 10 / Windows 11² |
-  | Architecture | X86 / X64 | X86, X64, ARM64 |
+  | Architecture | X86 | X86 |
   | Clavier intégrée | ❌ | ❌ |
   | Souris | ✅ | ✅ |
-  | DirectX | Version 9 | Version 11 |
+  | DirectX | Version 9 | Version 12 |
   | Mémoire | Non Spécifié | 12 Go |
   | Mémoire vidéo | Non Spécifié | 6 Go |
   | Interaction tactile | Non Spécifié | Non Spécifié |
@@ -122,11 +115,11 @@
   |:-:|:-:|
   | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
   | Date de sortie | 13/01/2023 |
-  | Mise à jour | 31/01/2023 |
+  | Mise à jour | 20/06/2023 |
   | Catégorie | Productivité |
   | Taille approximative | 46,4 Mo |
   | Langues prises en charge | Anglais, Français |
-  | Version | 1.3101.2023.0 |
+  | Version | 1.2006.2023.0 |
 
   </p>
   </details>
