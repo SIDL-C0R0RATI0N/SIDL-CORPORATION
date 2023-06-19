@@ -28,7 +28,7 @@
 ## ACUTALITÉS SUR LES MISES à JOURS :
 ### Actualités via Twitter.
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La nouvelle mise à jour vers la version 1.2006.2023.0 seras disponible très prochainement sur le Micorsoft Store./p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a>19 juin 2023</a></blockquote>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La nouvelle mise à jour vers la version 1.2006.2023.0 seras disponible très prochainement sur le Micorsoft Store.</p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a>19 juin 2023</a></blockquote>
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="fr" dir="ltr">La mise à jour va donc êtres très prochainement disponible vers la version 1.2001.2023.0</p>&mdash; SIDL CORPORATION (@SIDLCORPORATION) <a href="https://twitter.com/SIDLCORPORATION/status/1615879082020945920?ref_src=twsrc%5Etfw">19 janvier 2023</a></blockquote>
 
